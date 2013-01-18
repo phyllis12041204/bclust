@@ -1,8 +1,8 @@
-721849456254800decc7990a5dafb99f *DESCRIPTION
-9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
+a322482e992d32db5a4b9972b16bac0d *DESCRIPTION
+ea5553f4524487ac92fc472fdee81def *NAMESPACE
 ebd2bcd41e4132731989230fc2610df4 *R/bclust.R
-2e6eca7cd5676b7c55620423566f5d75 *R/zzz.R
-67d40e3fccc8c4ce16f5ef05304f4e2c *data/gaelle.rda
+423175dcb128a2447cb8a30adcdde1b5 *R/zzz.R
+61a380ec57763d81e319c2654b66c817 *data/gaelle.rda
 c52a677548be737877c33fb38a7e75ff *inst/CITATION
 a7088e3bfabd58b6dbafc901d7dcbe1e *man/bclust.Rd
 8662aa6f3c42d8ea7073268e478df136 *man/bclustvs.Rd
