@@ -1,6 +1,12 @@
-# Default NAMESPACE created by R
-# Remove the previous line if you edit this file
+# import some functions
+importFrom("grDevices", "heat.colors", "rainbow")
 
-# Export all names
-exportPattern(".")
+importFrom("graphics", "abline", "axis", "barplot", "image", "layout",
+            "par", "plot", "points", "text")
+
+importFrom("stats", "as.dendrogram", "cutree", "diffinv", "na.exclude",
+            "order.dendrogram")
+            
+# Export the package functions 
+export(ditplot, bclust, bdiscrim, profileplot, viplot, imp, dptplot, meancss, loglikelihood, teethplot)
 

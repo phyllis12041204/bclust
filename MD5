@@ -1,8 +1,8 @@
-a322482e992d32db5a4b9972b16bac0d *DESCRIPTION
-ea5553f4524487ac92fc472fdee81def *NAMESPACE
-ebd2bcd41e4132731989230fc2610df4 *R/bclust.R
-423175dcb128a2447cb8a30adcdde1b5 *R/zzz.R
-61a380ec57763d81e319c2654b66c817 *data/gaelle.rda
+0001436143a7a25a097b26e62252c8ba *DESCRIPTION
+6cc81189e678d0232772057e1c81e805 *NAMESPACE
+003c5e7f1cc452ed7eddef056f3f66eb *R/bclust.R
+794dbb11743f1e4fd534f1a300b91616 *R/zzz.R
+8ef469835839aba634e124ded065ef0b *data/gaelle.rda
 c52a677548be737877c33fb38a7e75ff *inst/CITATION
 a7088e3bfabd58b6dbafc901d7dcbe1e *man/bclust.Rd
 8662aa6f3c42d8ea7073268e478df136 *man/bclustvs.Rd
@@ -16,5 +16,5 @@ f859abb64f84b4e067a45f14633d425f *man/meancss.Rd
 188ca78286bc476abb22b1045c729fd0 *man/profileplot.Rd
 c6c88df057ee220f5c89065181887e19 *man/teethplot.Rd
 8955015abc65bff6ca0bc2464d8d3331 *man/viplot.Rd
-1eb6d92de48a947e101bdbf10b8fd709 *src/ClusteringvsGAL05.c
+00b82540311ee581866c1821cff7f2ed *src/ClusteringvsGAL05.c
 24451fdc961f31d4428dbf6cf5af8b18 *src/Makevars
